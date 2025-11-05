@@ -65,3 +65,21 @@ Below are some key screenshots illustrating how the project works in practice:
 - MCP (Model Context Protocol) SDK
 - Inquirer.js for CLI prompts
 - Zod for validation
+
+Here is a README script you can use to add references to the Model Context Protocol (MCP) SDK GitHub and official specification. This passage is formatted for Markdown and credits the protocol while guiding users to deeper documentation:
+
+***
+
+## Model Context Protocol Reference
+
+For advanced usage, standards, and protocol details, this project is built on top of the official Model Context Protocol (MCP):
+
+- [MCP TypeScript SDK on GitHub](https://github.com/modelcontextprotocol/typescript-sdk?tab=readme-ov-file)  
+  The core library powering this project, enabling the creation of robust MCP servers and clients in TypeScript.  
+  → Contains installation instructions, quick start guides, and a full example set.
+
+- [MCP Official Protocol Specification (2025-06-18)](https://modelcontextprotocol.io/specification/2025-06-18)  
+  Detailed specification describing the principles and mechanisms used in MCP for context sharing, tool integration, resource management, and security.  
+  → Recommended for understanding server/client negotiation, tool/resources/prompts definitions, and best practices for secure and privacy-respecting implementations.
+
+These resources offer guidance and technical standards required to extend or integrate with the MCP ecosystem. Be sure to follow their recommendations for consent, security, privacy, and safe tool execution when building and maintaining MCP applications.

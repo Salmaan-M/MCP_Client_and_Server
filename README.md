@@ -25,7 +25,7 @@ Below are some key screenshots illustrating how the project works in practice:
   ![Prompts](example-img-for-refer/prompt.png)
   Demonstration of custom prompts and how they help generate user or test data.
   
-  ![Using-Gemini](example-img-for-refer/gemini-query.jpg)
+  ![Using-Gemini](example-img-for-refer/gemini-query.png)
   Example of integrating Gemini and processing responses within the tool.
   Can be used for samplings which helps in prompting.
 

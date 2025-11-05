@@ -13,12 +13,20 @@ This project is a hands-on implementation of the Model Context Protocol (MCP), f
 
 Below are some key screenshots illustrating how the project works in practice:
 
-- Client terminal tool and user data creation workflow:
-  ![Screenshot: Terminal Tool Usage and User Creation](Screenshot-2025-11-05-231 file structure and configuration:
-  ![Screenshot: Project Structure](Screenshot-2025-11-05-231 Inspector UI showing resource management:
-  ![Screenshot: MCP Inspector](Screenshot-2025-11-05-231 terminal output with fake-user prompt:
-  ![Screenshot: Client fake-user prompt](Screenshot-2025-11-05-230 sample from client.ts for tool handling:
-  ![Screenshot: Tool Handler Code + Output](Screenshot-2025-11-05-224
+  ![mcp.json](example-img-for-refer/mcp-json.jpg)
+  Configuration setup for MCP servers and runtime options.
+  
+  ![MCP-Inspector](example-img-for-refer/mcp-inspector.jpg)
+  Graphical interface for inspecting resources, tools, and prompts within the MCP server.
+   
+  ![Accessing tools](example-img-for-refer/tools.jpg)
+  Steps to view and select available automation tools and actions.
+  
+  ![Prompts](example-img-for-refer/prompt.jpg)
+  Demonstration of custom prompts and how they help generate user or test data.
+  
+  ![Using-Gemini](example-img-for-refer/gemini.jpg)
+  Example of integrating Gemini and processing responses within the tool.
 
 1. Clone this repository and install dependencies with:
 

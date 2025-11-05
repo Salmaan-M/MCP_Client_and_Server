@@ -81,5 +81,18 @@
       "zipCode": "91234"
     },
     "phoneNumber": "555-234-5678"
+  },
+  {
+    "id": 12,
+    "firstName": "Eleanor",
+    "lastName": "Vance",
+    "email": "eleanor.vance78@example.com",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62704"
+    },
+    "phoneNumber": "217-555-9876"
   }
 ]

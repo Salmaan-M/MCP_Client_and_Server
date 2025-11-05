@@ -13,20 +13,21 @@ This project is a hands-on implementation of the Model Context Protocol (MCP), f
 
 Below are some key screenshots illustrating how the project works in practice:
 
-  ![mcp.json](example-img-for-refer/mcp-json.jpg)
+  ![mcp.json](example-img-for-refer/mcp.json.png)
   Configuration setup for MCP servers and runtime options.
   
-  ![MCP-Inspector](example-img-for-refer/mcp-inspector.jpg)
+  ![MCP-Inspector](example-img-for-refer/mcp-inspector.png)
   Graphical interface for inspecting resources, tools, and prompts within the MCP server.
    
-  ![Accessing tools](example-img-for-refer/tools.jpg)
+  ![Accessing tools](example-img-for-refer/tools.png)
   Steps to view and select available automation tools and actions.
   
-  ![Prompts](example-img-for-refer/prompt.jpg)
+  ![Prompts](example-img-for-refer/prompt.png)
   Demonstration of custom prompts and how they help generate user or test data.
   
-  ![Using-Gemini](example-img-for-refer/gemini.jpg)
+  ![Using-Gemini](example-img-for-refer/gemini-query.jpg)
   Example of integrating Gemini and processing responses within the tool.
+  Can be used for samplings which helps in prompting.
 
 1. Clone this repository and install dependencies with:
 
